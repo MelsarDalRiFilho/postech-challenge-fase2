@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1,roc_auc,pr_auc
+random_forest,0.9806,0.1852,0.0397,0.0654,0.5978,0.0604
+regressao_logistica,0.6282,0.017,0.3651,0.0326,0.5113,0.0535
+gradient_boosting,0.8005,0.0275,0.3095,0.0505,0.5591,0.0273

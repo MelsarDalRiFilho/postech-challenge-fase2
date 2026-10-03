@@ -1,0 +1,4 @@
+modelo,pr_auc_mean,pr_auc_std,roc_auc_mean,roc_auc_std,recall_mean,recall_std,precision_mean,precision_std,f1_mean,f1_std
+regressao_logistica,0.0549,0.0319,0.578,0.0205,0.4646,0.0648,0.0216,0.0052,0.0413,0.0096
+random_forest,0.0398,0.0189,0.566,0.0432,0.0178,0.0091,0.208,0.2386,0.0319,0.0182
+gradient_boosting,0.033,0.0259,0.552,0.0444,0.2264,0.0648,0.0218,0.004,0.0394,0.0066

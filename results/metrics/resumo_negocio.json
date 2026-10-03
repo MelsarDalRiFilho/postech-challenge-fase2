@@ -1,0 +1,16 @@
+{
+  "modelo": "Regressão Logística",
+  "clientes_base": 36457,
+  "taxa_maus_pct": 1.69,
+  "teste_clientes": 7354,
+  "teste_maus": 126,
+  "auc_teste": 0.511,
+  "pr_auc_teste": 0.053,
+  "auc_cv": 0.578,
+  "politica_fatia_pct": 8.0,
+  "politica_maus_barrados_pct": 18.3,
+  "politica_bons_por_mau": 24.7,
+  "politica_maus_barrados_pct_oof": 18.4,
+  "inconsistentes_teste": 3,
+  "inconsistentes_sinalizados": 3
+}

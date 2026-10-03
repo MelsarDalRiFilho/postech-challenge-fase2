@@ -1,0 +1,4 @@
+modelo,AUC-ROC,AUC-ROC IC95%,PR-AUC,PR-AUC IC95%
+Regressão Logística,0.511,0.456 – 0.565,0.053,0.027 – 0.093
+Random Forest,0.598,0.545 – 0.657,0.06,0.029 – 0.101
+Gradient Boosting,0.559,0.504 – 0.614,0.027,0.019 – 0.042

@@ -1,0 +1,21 @@
+atributo,tipo,info_mutua,ruido_p95,razao_sinal_ruido,decisao
+cadastro_inconsistente,numerica,0.001909,1.5e-05,126.434915,manter
+idade_anos,numerica,0.007156,0.000992,7.212062,manter
+FLAG_OWN_REALTY,numerica,0.000239,3.8e-05,6.309085,manter
+anos_empregado,numerica,0.003382,0.000809,4.181666,manter
+NAME_FAMILY_STATUS,categorica,0.000265,9.2e-05,2.882064,manter
+FLAG_FEMININO,numerica,0.000114,4e-05,2.841378,remover: criterio etico
+AMT_INCOME_TOTAL,numerica,0.0021,0.0011,1.909605,manter
+renda_per_capita,numerica,0.002695,0.001472,1.82992,manter
+OCCUPATION_TYPE,categorica,0.000533,0.000423,1.261948,manter
+NAME_HOUSING_TYPE,categorica,0.00014,0.000115,1.226295,manter
+NAME_EDUCATION_TYPE,categorica,9.5e-05,0.0001,0.950394,remover: abaixo do ruido
+NAME_INCOME_TYPE,categorica,0.000151,0.000162,0.932359,remover: abaixo do ruido
+CNT_FAM_MEMBERS,numerica,0.003378,0.004379,0.771237,remover: abaixo do ruido
+aposentado_ou_sem_vinculo,numerica,1.4e-05,3.7e-05,0.373204,remover: abaixo do ruido
+FLAG_OWN_CAR,numerica,9e-06,3.5e-05,0.268146,remover: abaixo do ruido
+FLAG_WORK_PHONE,numerica,1.6e-05,6.1e-05,0.255147,remover: abaixo do ruido
+FLAG_EMAIL,numerica,3e-06,4.4e-05,0.069133,remover: abaixo do ruido
+FLAG_PHONE,numerica,1e-06,2.3e-05,0.055348,remover: abaixo do ruido
+FLAG_MOBIL,numerica,,,,remover: constante
+CNT_CHILDREN,numerica,,,,remover: redundante com CNT_FAM_MEMBERS
